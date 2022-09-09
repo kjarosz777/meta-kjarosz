@@ -1,0 +1,6 @@
+[submodule "recipes-example/aaa-recipe"]
+	path = recipes-example/aaa-recipe
+	url = git@github.com:kjarosz777/aaa-recipe.git
+[submodule "recipes-example/bbb-recipe"]
+	path = recipes-example/bbb-recipe
+	url = git@github.com:kjarosz777/bbb-recipe.git
